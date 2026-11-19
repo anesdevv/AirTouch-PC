@@ -21,7 +21,7 @@
 | Client | Platform | Distribution | Status | Download |
 | :--- | :--- | :--- | :--- | :--- |
 | **AirTouch PC** | Windows (x86 / x64 / ARM64) | Single Portable `.exe` | **v1.0.0 Ready** | [📥 **Download AirTouchPC.exe**](https://github.com/anesdevv/AirTouch-PC/releases/latest/download/AirTouchPC.exe) |
-| **AirTouch Mobile** | Android 7.0+ | Standalone `.apk` | *Coming Soon* | `AirTouch.apk` *(Add your APK here)* |
+| **AirTouch Mobile** | Android 7.0+ | Standalone `.apk` | **v1.0.0 Ready** | [📥 **Download AirTouch.apk**](https://github.com/anesdevv/AirTouch-PC/releases/latest/download/AirTouch.apk) |
 
 > **Zero Installation Required**: AirTouch PC targets the built-in Microsoft .NET Framework (4.0 / 4.8) already included in all standard installations of Windows 10, Windows 11, 8, and 7. No installers, no Python runtimes, no dependencies. Just download and run.
 
