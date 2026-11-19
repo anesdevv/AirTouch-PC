@@ -1,0 +1,6 @@
+{
+  "name": "AirTouch PC",
+  "description": "Lightweight local Wi-Fi trackpad, keyboard, and voice command controller for Windows PCs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
